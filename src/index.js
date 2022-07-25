@@ -1,0 +1,1 @@
+export { default as useQueryFetcher } from './useQueryFetcher';
